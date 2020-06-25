@@ -65,3 +65,9 @@ h3 {
   color: #999;
   margin-bottom: 5px;
 }
+
+/*------------New CSS -------------*/
+.chatBackground{
+  background-image: url("../assets/background.jpg");
+  height:100vh;
+}
